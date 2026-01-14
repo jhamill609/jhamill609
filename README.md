@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Joe! </h1>
 
-<!--
-**jhamill609/jhamill609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Bachelors of Science in Computer Information Systems</h2>
+  - Stockton University Fall 2025
+  
+<h2>👨‍💻 Personal Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Active Directory Lab</b>
+  - [Praciting DS & Algos in Python](https://github.com/jhamill609)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Cybersecurity Lab</b>
+  - [SQL Injection Testing on DVWA using Kali Linux](https://github.com/jhamill609)
+
