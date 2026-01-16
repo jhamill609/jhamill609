@@ -5,8 +5,7 @@
   
 <h2>👨‍💻 Personal Projects:</h2>
 
-- <b>Active Directory Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/jhamill609)
+- <b>[Active Directory Lab](https://github.com/jhamill609)</b>
 
 - <b>Cybersecurity Lab</b>
   - [SQL Injection Testing on DVWA using Kali Linux](https://github.com/jhamill609)
